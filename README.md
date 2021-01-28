@@ -21,9 +21,9 @@
 >- ned.md
 
 #### inside the kings-landing create files named 
->- cersei.md
+>- cercesi.md
 >- tyrion.md
->- jaime.md
+>- jamie.md
 
 ####inside the narrow sea create the directory
 >- daenerys
@@ -39,7 +39,7 @@
 
 - move the file ned.mf into the kings-landing folder
 - move jon-snow.md inside the wall folder
-- move arya.md and sansa.md inside the kings-landin folder
+- move arya.md and sansa.md inside the kings-landing folder
 - rename daenerys folder to mother-of-dragons
 - remove the ned.md file
 - move mother-of-dragons inside of the wall folder
