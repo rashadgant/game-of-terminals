@@ -1,60 +1,70 @@
 # Game of Terminals
-### A Game-of-Thrones-themed BASH exercise.
 
----
+> A Game-of-Thrones- themed Bash exercise.
 
-### Make a folder called homework inside your codeimmersives/term-1/week-1/
- 
-**Please make sure you push to github step by step what we will be doing next with the commit message being the part of the assignment you've just done.**
+## Set Up
 
-### Inside the homework folder create a folder with the name "got"
-##### Navigate inside the got folder and create some directories:
-> -  winterfell
-> - kings-landing
-> - wall
-> - narrow-sea
+If you're on MacOS, go ahead and open up the Terminal application (found inside Applications > Utilities).
 
-#### inside the winterfell create files named 
->-  jon-snow.md
->-  sansa.md
->- arya.md
->- ned.md
+If you're on Windows, you'll need to install a Terminal. The easy way is to install an application called Git Bash which you can download [here](https://git-scm.com/download/win). A better but more difficult to set up option is to set up [WSL2](https://docs.microsoft.com/en-us/windows/wsl/install-win10). WSL2 is my personal preference although both options will work fine.
 
-#### inside the kings-landing create files named 
->- cercesi.md
->- tyrion.md
->- jamie.md
+## Instructions
 
-####inside the narrow sea create the directory
->- daenerys
+You won't need to submit anything on GitHub for this assignment so don't worry about forking this repository.
 
-> 	** inside the daenerys folder create three files with the names dragon1.md, dragon2.md, dragon3 .md** 
+#### Do all of the following steps using the command line
 
+1. Navigate to your `workspace` directory. If you don't have a `workspace` directory, go ahead and create one (your home folder is a good location).
+1. Inside `workspace`, create a new folder called `game-of-thrones`
+2. Navigate into this new directory and create the following new folders
+  * `winterfell`
+  * `kings-landing`
+  * `the-wall`
+  * `the-narrow-sea`
+1. Inside `winterfell`, create the following files
+  * `jon-snow.md`
+  * `sansa.md`
+  * `arya.md`
+  * `ned.md`
+1. Inside `kings-landing`, create the following files
+  * `cersei.md`
+  * `tyrion.md`
+  * `jaime.md`
+1. Inside `the-narrow-sea`, create the following directory
+  * `daenerys`
+1. Finally, create the following three files inside the `daenerys` folder
+  * `dragon-1.md`
+  * `dragon-2.md`
+  * `dragon-3.md`
 
-# Now let’s fight for **iron throne**
-![cat](https://odditymall.com/includes/content/game-of-thrones-iron-throne-cat-bed-0.jpg)
+#### Now let’s fight for **iron throne**
 
+<img src="https://odditymall.com/includes/content/game-of-thrones-iron-throne-cat-bed-0.jpg" width="300px"/>
 
+1. Move the file `ned.md` into the `kings-landing` folder
+1. Move `jon-snow.md` inside the `the-wall` folder
+1. Move `arya.md` and `sansa.md` inside the `kings-landing` folder
+1. Rename `daenerys` folder to `mother-of-dragons`
+1. Remove the `ned.md` file
+1. Move `mother-of-dragons` inside of the `the-wall` folder
+1. Remove `dragon-3.md`
+1. Move `sansa.md` and `arya.md` inside the `winterfell` folder
+1. Move `jon-snow.md` file and `mother-of-dragons` folder inside the `winterfell` folder
+1. Move `jaime.md` and `tyrion.md` into the `winterfell` folder
+1. Move everyone from the `winterfell` folder except `sansa.md` into the `kings-landing` folder
+1. Remove `cersei.md`
+1. Remove `jaime.md`
+1. Remove `dragon-2.md`
+1. Remove everyone from `kings-landing`
+1. Move `sansa.md` to kings-landing
 
+#### And finally, submit your work
 
-- move the file ned.mf into the kings-landing folder
-- move jon-snow.md inside the wall folder
-- move arya.md and sansa.md inside the kings-landing folder
-- rename daenerys folder to mother-of-dragons
-- remove the ned.md file
-- move mother-of-dragons inside of the wall folder
-- remove dragon3.md 
-- move sansa.md and arya.md inside the winterfell folder
-- move jon-snow.md file and mother-of-dragons folder inside the winterfell folder
-- move jamie.md and tyrion.md into the winterfell folder
-- move everyone from winterfell folder except sansa.md inside the kings-landing folder
-- remove cercesi.md
-- remove jamie.md
-- remove dragon2.md
-- remove everyone from kings-landing 
-- move sansa.md to kings-landing
+To submit your work, go to your command line, navigate to `game-of-thrones`, and type the following commands:
+1. `clear`
+1. `ls winterfell`
+1. `ls kings-landing`
+1. `ls the-wall`
+1. `ls the-narrow-sea`
 
-
-## And the rightful ruler of the iron throne person is  (or should be):
-![sansa](https://cdn.images.express.co.uk/img/dynamic/39/590x/secondary/sansa-stark-iron-throne-1868855.jpg?r=1557844309726)
-￼ 
+Now, take a screenshot of your command line application and submit that screenshot on Populi.
