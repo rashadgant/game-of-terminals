@@ -17,25 +17,25 @@ You won't need to submit anything on GitHub for this assignment so don't worry a
 1. Navigate to your `workspace` directory. If you don't have a `workspace` directory, go ahead and create one (your home folder is a good location).
 1. Inside `workspace`, create a new folder called `game-of-thrones`
 2. Navigate into this new directory and create the following new folders
-  * `winterfell`
-  * `kings-landing`
-  * `the-wall`
-  * `the-narrow-sea`
+    * `winterfell`
+    * `kings-landing`
+    * `the-wall`
+    * `the-narrow-sea`
 1. Inside `winterfell`, create the following files
-  * `jon-snow.md`
-  * `sansa.md`
-  * `arya.md`
-  * `ned.md`
+    * `jon-snow.md`
+    * `sansa.md`
+    * `arya.md`
+    * `ned.md`
 1. Inside `kings-landing`, create the following files
-  * `cersei.md`
-  * `tyrion.md`
-  * `jaime.md`
+    * `cersei.md`
+    * `tyrion.md`
+    * `jaime.md`
 1. Inside `the-narrow-sea`, create the following directory
-  * `daenerys`
+    * `daenerys`
 1. Finally, create the following three files inside the `daenerys` folder
-  * `dragon-1.md`
-  * `dragon-2.md`
-  * `dragon-3.md`
+    * `dragon-1.md`
+    * `dragon-2.md`
+    * `dragon-3.md`
 
 #### Now let’s fight for **iron throne**
 
