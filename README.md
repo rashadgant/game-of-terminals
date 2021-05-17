@@ -1,6 +1,6 @@
 # Game of Terminals
 
-> A Game-of-Thrones- themed Bash exercise.
+> A Game-of-Thrones-themed Bash exercise.
 
 ## Set Up
 
